@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  TEA Entendendo o Transtorno do Espectro Autista | Crie um título para e-book sobre TEA,transtorno do Espectro Autista.O título deve ser convidativo.                                                        
+| TEA - Transtorno do Espectro Autista, o que é, características e classificações | Faça um texto para ebook sobre o Transtorno do Espectro Autista, sobre o que é, suas características e classificações, o texto decve ser resumido. |
 
 
-Midjourney：
+Meta AI：
 
 |  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Capa do e-book | Crie a imagem pequena da silhueta de um indivíduo em pé, como se estivesse olhando o infinito, imerso numa bolha. Essa bolha deve ser como se fosse o cosmos e por fora da bolha, , o resto, ao redor o céu imenso e bonito--------------------------------------------------------------------------------------
+| título | |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via ChatGPT: o título foi  gerado criado a partir de algumas sugestóes do ChatGPT. Um dos títulos sugeridos era TEA - Desvendando o Transtorno do Espectro Autismo. Optei por mudar "Desvendando" por "Entendendo", pois trata-se de conteúdo básico. O texto foi adaptado a partir de vários texto gerados via ChatGPT.No entanto, foi preciso gerar vários textos e reescrever depois pois nem sempre as informações davam conta de algumas sutiluzas do assunto. No entanto, a ajuda da  Inteligência Artificial foi um precioso e surpreentente aliado para a elaboração do texto
+- Imagens geradas via Meta AI e e reelaboradas via Canva
 
 ## 📚 Materiais
 
