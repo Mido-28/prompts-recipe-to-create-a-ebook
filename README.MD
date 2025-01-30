@@ -41,13 +41,13 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  TEA Entendendo o Transtorno do Espectro Autista | Crie um título para e-book sobre TEA,transtorno do Espectro Autista.O título deve ser convidativo.                                                        
-| TEA - Transtorno do Espectro Autista, o que é, características e classificações | Faça um texto para ebook sobre o Transtorno do Espectro Autista, sobre o que é, suas características e classificações, o texto decve ser resumido. |
+| TEA - Transtorno do Espectro Autista, o que é, características e classificações | Faça um texto para ebook sobre o Transtorno do Espectro Autista, sobre o que é, suas características e classificação, o texto deve ser resumido. |
 
 
 Meta AI：
 
 |  Ação  | prompt                                                                                 |
-| Capa do e-book | Crie a imagem pequena da silhueta de um indivíduo em pé, como se estivesse olhando o infinito, imerso numa bolha. Essa bolha deve ser como se fosse o cosmos e por fora da bolha, , o resto, ao redor o céu imenso e bonito--------------------------------------------------------------------------------------
+| Capa do e-book | Crie a imagem pequena da silhueta de um indivíduo em pé, como se estivesse olhando o infinito, imerso numa bolha. Essa bolha deve ser como se fosse o cosmos e por fora da bolha, o resto ao redor o céu imenso e bonito.--------------------------------------------------------------------------------------
 | título | |
 
 ## ✨ Features
