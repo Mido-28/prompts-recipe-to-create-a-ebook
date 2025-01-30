@@ -52,8 +52,8 @@ Meta AI：
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT: o título foi  gerado criado a partir de algumas sugestóes do ChatGPT. Um dos títulos sugeridos era TEA - Desvendando o Transtorno do Espectro Autismo. Optei por mudar "Desvendando" por "Entendendo", pois trata-se de conteúdo básico. O texto foi adaptado a partir de vários texto gerados via ChatGPT.No entanto, foi preciso gerar vários textos e reescrever depois pois nem sempre as informações davam conta de algumas sutiluzas do assunto. No entanto, a ajuda da  Inteligência Artificial foi um precioso e surpreentente aliado para a elaboração do texto
-- Imagens geradas via Meta AI e e reelaboradas via Canva
+- Conteúdo gerado via ChatGPT: o título foi  gerado criado a partir de algumas sugestóes do ChatGPT. Um dos títulos sugeridos era TEA - Desvendando o Transtorno do Espectro Autismo. Optei por mudar "Desvendando" por "Entendendo", pois trata-se de conteúdo básico. O texto foi adaptado a partir de vários textos gerados via ChatGPT. No entanto, foi preciso gerar vários textos e reescrever depois pois nem sempre as informações davam conta de algumas sutiluzas do assunto. Por outro lado, a ajuda da  Inteligência Artificial foi um precioso e surpreentente aliado para a elaboração do texto
+- Imagens geradas via Meta AI e e reelaboradas via Canva.
 
 ## 📚 Materiais
 
