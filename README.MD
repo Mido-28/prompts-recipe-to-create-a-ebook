@@ -58,7 +58,7 @@ Meta AI：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `asses`thttps://photos.app.goo.gl/mX6u1G1uSTYEusbN8
+- Imagens utilizadas em `assets` https://photos.app.goo.gl/mX6u1G1uSTYEusbN8
 - ebook gerado durante as aulas em `output`
 https://1drv.ms/b/c/4b13d6f0f10d1c9e/ERE9vWGmJ1BFlOheb_w4sIQBe7neuJQMtVrQCplwktQADw
 ## 🛠️ Instruções de execução
