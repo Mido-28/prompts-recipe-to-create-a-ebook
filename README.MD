@@ -48,7 +48,7 @@ ChatGPT：
 Meta AI：
 
 |  Capa do e-book  | prompt Crie a imagem pequena da silhueta de um indivíduo em pé, como se estivesse olhando o infinito, imerso numa bolha. Essa bolha deve ser como se fosse o cosmos e por fora da bolha, o resto ao redor o céu imenso e bonito.                                                                                 |
-| Capa do e-book | Crie a imagem pequena da silhueta de um indivíduo em pé, como se estivesse olhando o infinito, imerso numa bolha. Essa bolha deve ser como se fosse o cosmos e por fora da bolha, o resto ao redor o céu imenso e bonito.
+| Capa do e-book | /imagine a silhueta de uma pessoa pequena em pé e de costas contemplando o infinito, dentro de uma bolha e dentro dessa bolha deve ser como se fosse o cosmos com cores harmoniosas. A pessoa tem que estar dentro da bolha e o rosto nao deve aparecer.Do lado de fora,um campo aberto com estampa de puzzle.
 | título | |
 
 ## ✨ Features
